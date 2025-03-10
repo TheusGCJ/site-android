@@ -45,7 +45,8 @@ background: linear-gradient(180deg, rgba(42,255,136,1) 0%, rgba(30,166,90,1) 35%
 .title h1{
     text-align: center;
     margin: auto;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
+    padding-bottom: 30px;
     font-family: Arial, Helvetica, sans-serif;
     color: white;
 }
